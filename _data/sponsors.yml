@@ -51,6 +51,9 @@ silver:
     - 2 biglietti gratuiti
   max: 16
   list:
+    -
+      url: https://www.sailsquare.com/work-with-us?utm_source=symfonyday
+      image: sailsquare.svg
 
 bronze:
   price: € 300
