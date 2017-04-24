@@ -18,6 +18,9 @@ main:
     - Banchetto principale 2m x 1m in sala o nella hall
   max: 1
   list:
+    -
+      url: https://labs.madisoft.it/?utm_source=symfonyday
+      image: madisoft.svg
 
 platinum:
   price: € 3,000
