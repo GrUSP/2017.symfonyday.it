@@ -57,7 +57,9 @@ silver:
     -
       url: https://www.sailsquare.com/work-with-us?utm_source=symfonyday
       image: sailsquare.svg
-
+    -
+      url: https://www.ideato.it/?utm_source=symfonyday
+      image: ideato.svg
 bronze:
   price: € 300
   offer:
