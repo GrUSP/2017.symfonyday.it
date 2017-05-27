@@ -15,6 +15,7 @@
     display: table-cell;
     padding-right: s(2);
     vertical-align: middle;
+    text-decoration: none;
   }
 
   @include element ('logo-image') {

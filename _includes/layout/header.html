@@ -5,7 +5,7 @@
         <img class="header__logo-image" src="{{ site.baseurl }}/img/themes/{{ site.data.conference.slug }}/sfday_logo.jpg">
       </a>
       <h1 class="header__conf-name">
-        {{ site.data.conference.name }} {{ site.data.conference.year }}
+        <a href="{{ site.baseurl }}/" class="header__logo">{{ site.data.conference.name }} {{ site.data.conference.year }}</a>
       </h1>
       <nav class="header__menu">
         <a href="#" id="open-menu" class="button button--menu">
@@ -15,6 +15,11 @@
         </a>
 
         <div class="header__menu-desktop">
+
+          <a href="{{ site.baseurl }}/workshop.html" class="button">
+            Workshop
+          </a>
+
           {% if site.data.conference.talks_available %}
           <a href="{{ site.baseurl }}/talks.html" class="button">
             Talks
