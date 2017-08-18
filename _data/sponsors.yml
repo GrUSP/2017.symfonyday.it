@@ -44,6 +44,9 @@ gold:
     - 3 biglietti gratuiti
   max: 8
   list:
+    -
+      url: https://www.facile.it/?utm_source=symfonyday
+      image: facile.svg
 
 silver:
   price: € 500
