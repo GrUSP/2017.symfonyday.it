@@ -1,0 +1,46 @@
+-
+  speaker_id:
+    - ettore-delprino
+  title: Symfony Without Bundles
+  extract: >
+    Siamo abituati ad iniziare un progetto Symfony e come prima cosa, ancora prima della configurazione definiamo il, o i vari, bundle che
+    conterranno la logica della nostra app. In questo talk vedremo se realmente serve accoppiare così tanto il nostro codice al framework che
+    stiamo utilizzando e che benefici porta mantenere una dominio slegato da Symfony.
+
+-
+  speaker_id:
+    - massimiliano-arione
+  title: Disinstallare FOSUserBundle e vivere felici
+  extract: >
+    Gran parte dei progetti Symfony iniziano con un semplice passo: installare FOSUserBundle. E se invece potessimo farne a meno e lo
+    disinstallassimo? Se addirittura fosse ancora meglio riuscire a non installarlo? Se alla fine di questo talk non ne sarete convinti,
+    quantomeno potrete essere maggiormente consapevoli degli svantaggi che questo bundle si porta dietro.
+
+-
+  speaker_id:
+    - matteo-moretti
+    - samuele-lilli
+  title: "Behat from zero to hero: a practical guide to Symfony integration and usage"
+  extract: >
+    Utilizzare Behat è un must per chiunque voglia svolgere BDD a livello funzionale. Utilizzarlo nella maniera corretta non è così immediato:
+    i context crescono, le chiamate asincrone creano problemi di temporizzazione, i tests sono lenti e tutto diventa improvvisamente difficile da
+    gestire. Questo talk è mirato a mostrare come all’interno di un’applicazione Symfony sia possibile utilizzare Behat per raggiungere questo
+    scopo, senza abbandonare il BDD al crescere della dimensione e della complessità della vostra applicazione.
+
+-
+  speaker_id:
+    - oscar-fanelli
+  title: "CQRS e Event Sourcing: che l'Evento sia con te"
+  extract: >
+    L’incremento dei servizi di terze parti integrati nel tuo applicativo mina la mantenibilità del codice. Utilizzando un bundle Symfony che
+    ascolta tutti gli eventi scatenati, un pattern CQRS e l’event sourcing isoleremo rapidamente le problematiche e replicheremo le azioni da
+    compiere in caso di rottura dell’applicativo.
+
+-
+  speaker_id:
+    - simone-damico
+  title: "Symfony Cache component: speed-up your application with a new layer of cache"
+  extract: >
+    Con la versione 3.1 di Symfony è stato introdotto il componente Cache che fornisce un'implementazione di PSR-6 per l'aggiunta della cache alle
+    tue applicazioni. Il componente fornisce già degli adapters per gli scenari più comuni in un’applicazione web. All’interno del talk parleremo
+    di: come funziona il componente Cache, quali sono i benefici che puoi trarne e come è stato utilizzato in un caso d’uso reale.
