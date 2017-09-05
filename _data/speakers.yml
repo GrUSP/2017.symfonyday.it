@@ -3,3 +3,45 @@
 call_for_paper_url: https://goo.gl/forms/gmXdZRUwTEBPPn7z2
 call_for_paper: false
 list:
+  -
+    id: ettore-delprino
+    description:
+    image: ettore-delprino.jpg
+    first_name: Ettore
+    last_name: Delprino
+    twitter: edelprino
+  -
+    id: massimiliano-arione
+    description:
+    image: massimiliano-arione.jpg
+    first_name: Massiliano
+    last_name: Arione
+    twitter: garakkio
+  -
+    id: matteo-moretti
+    description:
+    image: matteo-moretti.jpg
+    first_name: Matteo
+    last_name: Moretti
+    twitter: mat_teo8
+  -
+    id: oscar-fanelli
+    description:
+    image: oscar-fanelli.jpg
+    first_name: Oscar
+    last_name: Fanelli
+    twitter: Nesis
+  -
+    id: samuele-lilli
+    description:
+    image: samuele-lilli.jpeg
+    first_name: Samuele
+    last_name: Lilli
+    twitter: SamueleLilli
+  -
+    id: simone-damico
+    description:
+    image: simone-damico.jpg
+    first_name: Simone
+    last_name: D'Amico
+    twitter: dymissy
