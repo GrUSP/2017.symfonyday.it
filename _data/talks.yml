@@ -12,11 +12,12 @@
     - francesco-face
   title: Biglietti, prego! A ticket for the (command) bus
   extract: >
-    Have you ever found yourself writing big fat controllers with a lot of functionalities? Has a customer ever asked you to add a new functionality
-    inside an existing business workflow? Have you ever dreamed a way to write code really maintanable, decoupled and easy to evolve?
-    Meet the Command Bus, a pattern that lets you write expressive and highly maintanable code.
-    In this talk I'll show you the benefits of using the Command Bus (and Event Bus as well) with a practical example in Symfony, using the
-    SimpleBus library.
+    Ti è mai capitato di ritrovarti a scrivere controller enormi pieni di funzionalità? O che un cliente ti chiedesse di aggiungere un nuova
+    funzionalità all’interno di un flusso già esistente? Hai mai sognato che esistesse un modo per scrivere codice realmente manutenibile,
+    disaccopiato e semplice da far evolvere?
+    Ti presento il Command Bus, un patterna che ti permette di scrivere codice altamente espressivo e manutenibile.
+    In questo talk ti mostrerò i vantaggi dell’utilizzare il Command Bus (e anche l’Event Bus) con un esempio pratico in Symfony, usando la
+    libreria SimpleBus.
 
 -
   speaker_id:
