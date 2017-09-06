@@ -66,3 +66,13 @@
     Con la versione 3.1 di Symfony è stato introdotto il componente Cache che fornisce un'implementazione di PSR-6 per l'aggiunta della cache alle
     tue applicazioni. Il componente fornisce già degli adapters per gli scenari più comuni in un’applicazione web. All’interno del talk parleremo
     di: come funziona il componente Cache, quali sono i benefici che puoi trarne e come è stato utilizzato in un caso d’uso reale.
+
+-
+  speaker_id:
+    - simone-dimaulo
+  title: Reliable service integration
+  extract: >
+    Ci capita spesso di dover integrare la nostra applicazione con servizi di terze parti (api HTTP, SMTP, etc...).
+    Non sempre questi servizi sono affidabili, a volte sono troppo lenti, a volte hanno un rate limit più basso rispetto alle nostre esigenze.
+    In questo talk vedremo come costruire passo passo un'integrazione tra un'applicazione symfony e un servizio esterno, risolvendo questi problemi
+    per migliorare affidabilità ed esperienza utente.

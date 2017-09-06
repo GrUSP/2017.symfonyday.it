@@ -59,3 +59,10 @@ list:
     first_name: Simone
     last_name: D'Amico
     twitter: dymissy
+  -
+    id: simone-dimaulo
+    description:
+    image: simone-dimaulo.jpeg
+    first_name: Simone
+    last_name: Di Maulo
+    twitter: toretto460
