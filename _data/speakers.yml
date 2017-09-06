@@ -11,6 +11,20 @@ list:
     last_name: Delprino
     twitter: edelprino
   -
+    id: francesco-face
+    description:
+    image: francesco-face.jpg
+    first_name: Francesco
+    last_name: Face
+    twitter: Magobaol
+  -
+    id: gabriele-martini
+    description:
+    image: gabriele-martini.jpg
+    first_name: Gabriele
+    last_name: Martini
+    twitter: mar_gab
+  -
     id: massimiliano-arione
     description:
     image: massimiliano-arione.jpg

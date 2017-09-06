@@ -9,6 +9,28 @@
 
 -
   speaker_id:
+    - francesco-face
+  title: Biglietti, prego! A ticket for the (command) bus
+  extract: >
+    Have you ever found yourself writing big fat controllers with a lot of functionalities? Has a customer ever asked you to add a new functionality
+    inside an existing business workflow? Have you ever dreamed a way to write code really maintanable, decoupled and easy to evolve?
+    Meet the Command Bus, a pattern that lets you write expressive and highly maintanable code.
+    In this talk I'll show you the benefits of using the Command Bus (and Event Bus as well) with a practical example in Symfony, using the
+    SimpleBus library.
+
+-
+  speaker_id:
+    - gabriele-martini
+  title: "Symfony and frontend: a better way"
+  extract: >
+    Mentre negli ultimi anni tool e best practices per lo sviluppo frontend hanno subito un profondo cambiamento, l’evoluzione degli strumenti
+    frontend legati a Symfony non ha seguito lo stesso ritmo. In questo talk vedremo come è possibile "svecchiare" la nostra tool-chain e ottenere
+    un ambiente di sviluppo moderno ed efficace. In particolare ci concentreremo nell'integrazione tra Symfony e Vue.js, astro nascente dei framework
+    Javascript, in accoppiata con webpack. Esploreremo inoltre Encore, la nuovissima libreria ufficiale con cui il team core di Symfony sta tentando
+    di riavvicinare i due mondi dello sviluppo web.
+
+-
+  speaker_id:
     - massimiliano-arione
   title: Disinstallare FOSUserBundle e vivere felici
   extract: >
