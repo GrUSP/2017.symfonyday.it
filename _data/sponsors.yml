@@ -58,11 +58,14 @@ silver:
   max: 16
   list:
     -
-      url: https://www.sailsquare.com/work-with-us?utm_source=symfonyday
-      image: sailsquare.svg
+      url: https://www.elearnsecurity.com/?utm_source=symfonyday
+      image: elearnsecurity.svg
     -
       url: https://www.ideato.it/?utm_source=symfonyday
       image: ideato.svg
+    -
+      url: https://www.sailsquare.com/work-with-us?utm_source=symfonyday
+      image: sailsquare.svg
 bronze:
   price: € 300
   offer:
