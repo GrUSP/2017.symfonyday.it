@@ -44,6 +44,7 @@
     - matteo-moretti
     - samuele-lilli
   title: "Behat from zero to hero: a practical guide to Symfony integration and usage"
+  image: moretti-lilli.jpg
   extract: >
     Utilizzare Behat è un must per chiunque voglia svolgere BDD a livello funzionale. Utilizzarlo nella maniera corretta non è così immediato:
     i context crescono, le chiamate asincrone creano problemi di temporizzazione, i tests sono lenti e tutto diventa improvvisamente difficile da
