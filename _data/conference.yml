@@ -1,5 +1,6 @@
 name: SymfonyDay
 og_image: http://2017.symfonyday.it/img/confs/sfday/header_sfday.png
+og_description: Una giornata interamente dedicata a Symfony framework. 8 sessioni pratiche presentate da speaker che usano Symfony ogni giorno.
 slug: symfonyday
 url: http://2017.symfonyday.it
 where_when: Milano, 20 ottobre 2017
