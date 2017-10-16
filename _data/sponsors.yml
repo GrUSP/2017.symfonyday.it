@@ -76,9 +76,12 @@ bronze:
     - 1 biglietto gratuito
   max: 32
   list:
-     -
-      url: https://www.siteground.com/?utm_source=symfonyday
-      image: siteground.svg
-     -
+    -
       url: http://www.cippest.it/?utm_source=symfonyday
       image: cippest.svg
+    -
+      url: http://www.lastminutegroup.com/?utm_source=symfonyday
+      image: lastminute.svg
+    -
+      url: https://www.siteground.com/?utm_source=symfonyday
+      image: siteground.svg
