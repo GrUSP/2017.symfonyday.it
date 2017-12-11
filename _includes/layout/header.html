@@ -41,7 +41,7 @@
           <a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
             Sponsor
           </a>
-
+          {% if site.data.tickets.tickets_available %}
           {% if site.data.tickets.sold_out %}
             <div class="button button--sold-out">
               sold out
@@ -51,7 +51,7 @@
               Registrati
             </a>
           {% endif %}
-
+          {% endif %}
         </div>
       </nav>
     </div>
