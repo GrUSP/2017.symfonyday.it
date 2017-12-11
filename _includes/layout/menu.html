@@ -13,6 +13,7 @@
       <a href="{{ site.data.venue.map }}" target="_blank" class="menu__where-when">
         {{ site.data.conference.where_when }}
       </a>
+      {% if site.data.tickets.tickets_available %}
       {% if site.data.tickets.sold_out %}
         <div class="menu__register menu__register--sold-out">
           sold out
@@ -23,6 +24,7 @@
           adesso
         </a>
       {% endif %}
+      {% endif %}      
     </div>
   </div>
 
@@ -40,6 +42,8 @@
           </a>
         </li>
         {% endif %}
+        
+        {% if site.data.tickets.tickets_available %}
         <li class="menu__item">
           {% if site.data.tickets.sold_out %}
             <span class="menu__button menu__button--sold-out">
@@ -51,6 +55,8 @@
             </a>
           {% endif %}
         </li>
+        {% endif %}        
+        
         {% if site.data.speakers.call_for_paper %}
         <li class="menu__item">
           <a href="{{ site.data.speakers.call_for_paper_url }}" class="menu__button">
